@@ -42,9 +42,8 @@ handed to the poster separately.
 {"url": "https://www.tiktok.com/@<handle>/video/<id>"}
 ```
 
-**Right now it holds a placeholder** (`@0xyouth`, id of zeroes): the video
-has not been posted yet. Once it is posted publicly on TikTok, replace the
-placeholder with the real address before submitting.
+It names the posted video: https://www.tiktok.com/@0xyouth/video/7710743540250299654
+(posted publicly on TikTok by the account owner for this entry).
 
 Caption to post with the video (exact line, plus the play code):
 
