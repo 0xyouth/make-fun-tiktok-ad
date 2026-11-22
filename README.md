@@ -38,6 +38,13 @@ only audio is a soft synth pad made with ffmpeg. The name is written
 The master video (`ad-master.mp4`) is kept out of git; a phone-ready copy is
 handed to the poster separately.
 
+**Re-render (animated):** the master was re-rendered with the same scenes,
+text and timing, but with continuous motion throughout — a slowly drifting
+ink-to-magenta gradient background, floating particles, and each text line
+sliding and fading in — because the first render's static cards could be
+mistaken for still images. The badge, end card and `kemch750` code are
+unchanged.
+
 ## The video
 
 `VIDEO.json` holds the video's full TikTok address:
